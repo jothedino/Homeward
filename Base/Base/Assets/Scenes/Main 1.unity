@@ -5212,6 +5212,11 @@ Prefab:
       propertyPath: m_LocalPosition.z
       value: -0.9
       objectReference: {fileID: 0}
+    - target: {fileID: 114078069628243050, guid: 31b61f8edb1db3b4a9126806469e0def,
+        type: 2}
+      propertyPath: inputButton
+      value: Fire2
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 31b61f8edb1db3b4a9126806469e0def, type: 2}
   m_IsPrefabParent: 0
@@ -6836,6 +6841,11 @@ Prefab:
         type: 2}
       propertyPath: m_Text
       value: monument1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114078069628243050, guid: 31b61f8edb1db3b4a9126806469e0def,
+        type: 2}
+      propertyPath: inputButton
+      value: Fire2
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 135640981198863440, guid: 31b61f8edb1db3b4a9126806469e0def, type: 2}
@@ -11139,7 +11149,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   fieldOfView: 0.51
   mainCam: {fileID: 1215348271}
-  inputButton: Fire3
+  inputButton: Fire1
 --- !u!114 &756932363
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -12158,6 +12168,11 @@ Prefab:
         type: 2}
       propertyPath: m_Text
       value: nest & eggs
+      objectReference: {fileID: 0}
+    - target: {fileID: 114078069628243050, guid: 31b61f8edb1db3b4a9126806469e0def,
+        type: 2}
+      propertyPath: inputButton
+      value: Fire2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 31b61f8edb1db3b4a9126806469e0def, type: 2}
@@ -15826,6 +15841,11 @@ Prefab:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114078069628243050, guid: 31b61f8edb1db3b4a9126806469e0def,
+        type: 2}
+      propertyPath: inputButton
+      value: Fire2
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 31b61f8edb1db3b4a9126806469e0def, type: 2}
   m_IsPrefabParent: 0
@@ -17346,6 +17366,11 @@ Prefab:
       propertyPath: m_Text
       value: monument2
       objectReference: {fileID: 0}
+    - target: {fileID: 114078069628243050, guid: 31b61f8edb1db3b4a9126806469e0def,
+        type: 2}
+      propertyPath: inputButton
+      value: Fire2
+      objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 135640981198863440, guid: 31b61f8edb1db3b4a9126806469e0def, type: 2}
   m_ParentPrefab: {fileID: 100100000, guid: 31b61f8edb1db3b4a9126806469e0def, type: 2}
@@ -18122,6 +18147,11 @@ Prefab:
         type: 2}
       propertyPath: additionalTextSections.Array.data[1]
       value: I am also red
+      objectReference: {fileID: 0}
+    - target: {fileID: 114078069628243050, guid: 31b61f8edb1db3b4a9126806469e0def,
+        type: 2}
+      propertyPath: inputButton
+      value: Fire2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 31b61f8edb1db3b4a9126806469e0def, type: 2}
@@ -27048,6 +27078,26 @@ Prefab:
       propertyPath: additionalTextSections.Array.data[1]
       value: I would be scared to live there
       objectReference: {fileID: 0}
+    - target: {fileID: 114078069628243050, guid: 31b61f8edb1db3b4a9126806469e0def,
+        type: 2}
+      propertyPath: keyCode
+      value: 335
+      objectReference: {fileID: 0}
+    - target: {fileID: 114078069628243050, guid: 31b61f8edb1db3b4a9126806469e0def,
+        type: 2}
+      propertyPath: useMouseButton
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114078069628243050, guid: 31b61f8edb1db3b4a9126806469e0def,
+        type: 2}
+      propertyPath: useKeyCode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114078069628243050, guid: 31b61f8edb1db3b4a9126806469e0def,
+        type: 2}
+      propertyPath: inputButton
+      value: Fire2
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 31b61f8edb1db3b4a9126806469e0def, type: 2}
   m_IsPrefabParent: 0
@@ -27232,6 +27282,11 @@ Prefab:
     - target: {fileID: 4051957172868978, guid: 31b61f8edb1db3b4a9126806469e0def, type: 2}
       propertyPath: m_LocalPosition.x
       value: -0.87
+      objectReference: {fileID: 0}
+    - target: {fileID: 114078069628243050, guid: 31b61f8edb1db3b4a9126806469e0def,
+        type: 2}
+      propertyPath: inputButton
+      value: Fire2
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 135640981198863440, guid: 31b61f8edb1db3b4a9126806469e0def, type: 2}
@@ -28067,7 +28122,7 @@ Prefab:
     - target: {fileID: 114374226833635548, guid: 31b61f8edb1db3b4a9126806469e0def,
         type: 2}
       propertyPath: additionalTextSections.Array.data[0]
-      value: Are you still here?
+      value: hm, i better keep going
       objectReference: {fileID: 0}
     - target: {fileID: 114374226833635548, guid: 31b61f8edb1db3b4a9126806469e0def,
         type: 2}
@@ -28087,6 +28142,11 @@ Prefab:
         type: 2}
       propertyPath: m_Text
       value: monument3
+      objectReference: {fileID: 0}
+    - target: {fileID: 114078069628243050, guid: 31b61f8edb1db3b4a9126806469e0def,
+        type: 2}
+      propertyPath: inputButton
+      value: Fire2
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 135640981198863440, guid: 31b61f8edb1db3b4a9126806469e0def, type: 2}
@@ -28526,15 +28586,15 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4778026400749240, guid: 75561a30864088743b18633a61ced8e0, type: 2}
       propertyPath: m_LocalPosition.x
-      value: 0.88
+      value: 0.9
       objectReference: {fileID: 0}
     - target: {fileID: 4778026400749240, guid: 75561a30864088743b18633a61ced8e0, type: 2}
       propertyPath: m_LocalPosition.y
-      value: 2.34
+      value: 1.76
       objectReference: {fileID: 0}
     - target: {fileID: 4778026400749240, guid: 75561a30864088743b18633a61ced8e0, type: 2}
       propertyPath: m_LocalPosition.z
-      value: -2.63
+      value: -1.8
       objectReference: {fileID: 0}
     - target: {fileID: 4778026400749240, guid: 75561a30864088743b18633a61ced8e0, type: 2}
       propertyPath: m_LocalRotation.x
@@ -28555,6 +28615,11 @@ Prefab:
     - target: {fileID: 4778026400749240, guid: 75561a30864088743b18633a61ced8e0, type: 2}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 4.781
+      objectReference: {fileID: 0}
+    - target: {fileID: 114971834639873354, guid: 75561a30864088743b18633a61ced8e0,
+        type: 2}
+      propertyPath: m_Enabled
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 75561a30864088743b18633a61ced8e0, type: 2}
