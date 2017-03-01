@@ -1,0 +1,199 @@
+fileFormatVersion: 2
+guid: 4ef541a9f0a612c48bc9f44da1db003f
+timeCreated: 1488346471
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: forest_path:pCube101
+    100002: forest_path:pCube102
+    100004: forest_path:pCube103
+    100006: forest_path:pCube104
+    100008: forest_path:pCube105
+    100010: forest_path:pCube106
+    100012: forest_path:pCube107
+    100014: forest_path:pCube108
+    100016: forest_path:pCube36
+    100018: forest_path:pCube37
+    100020: forest_path:pCube38
+    100022: forest_path:pCube39
+    100024: forest_path:pCube40
+    100026: forest_path:pCube41
+    100028: forest_path:pCube42
+    100030: forest_path:pCube43
+    100032: forest_path:pCube44
+    100034: forest_path:pCube45
+    100036: forest_path:pCube46
+    100038: forest_path:pCube47
+    100040: forest_path:pCube48
+    100042: forest_path:pCube49
+    100044: forest_path:pCube83
+    100046: pCube1
+    100048: pCube120
+    100050: pCube121
+    100052: pCube122
+    100054: pCube125
+    100056: pCube128
+    100058: pCube2
+    100060: //RootNode
+    100062: transform31
+    100064: transform32
+    100066: transform33
+    100068: transform34
+    100070: transform35
+    100072: transform36
+    100074: transform37
+    100076: transform38
+    100078: transform39
+    100080: transform40
+    100082: transform41
+    100084: transform42
+    100086: transform43
+    100088: transform44
+    100090: transform45
+    100092: transform46
+    100094: transform47
+    100096: transform48
+    100098: transform49
+    100100: transform50
+    100102: transform51
+    100104: transform52
+    100106: transform53
+    100108: transform54
+    100110: transform55
+    100112: transform56
+    100114: transform57
+    100116: transform58
+    100118: transform59
+    400000: forest_path:pCube101
+    400002: forest_path:pCube102
+    400004: forest_path:pCube103
+    400006: forest_path:pCube104
+    400008: forest_path:pCube105
+    400010: forest_path:pCube106
+    400012: forest_path:pCube107
+    400014: forest_path:pCube108
+    400016: forest_path:pCube36
+    400018: forest_path:pCube37
+    400020: forest_path:pCube38
+    400022: forest_path:pCube39
+    400024: forest_path:pCube40
+    400026: forest_path:pCube41
+    400028: forest_path:pCube42
+    400030: forest_path:pCube43
+    400032: forest_path:pCube44
+    400034: forest_path:pCube45
+    400036: forest_path:pCube46
+    400038: forest_path:pCube47
+    400040: forest_path:pCube48
+    400042: forest_path:pCube49
+    400044: forest_path:pCube83
+    400046: pCube1
+    400048: pCube120
+    400050: pCube121
+    400052: pCube122
+    400054: pCube125
+    400056: pCube128
+    400058: pCube2
+    400060: //RootNode
+    400062: transform31
+    400064: transform32
+    400066: transform33
+    400068: transform34
+    400070: transform35
+    400072: transform36
+    400074: transform37
+    400076: transform38
+    400078: transform39
+    400080: transform40
+    400082: transform41
+    400084: transform42
+    400086: transform43
+    400088: transform44
+    400090: transform45
+    400092: transform46
+    400094: transform47
+    400096: transform48
+    400098: transform49
+    400100: transform50
+    400102: transform51
+    400104: transform52
+    400106: transform53
+    400108: transform54
+    400110: transform55
+    400112: transform56
+    400114: transform57
+    400116: transform58
+    400118: transform59
+    2300000: pCube128
+    3300000: pCube128
+    4300000: pCube128
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
